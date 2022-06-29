@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(37,16): warning C4459: declaration of 'window' hides global declaration
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(11,13): message : see declaration of 'window'
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(142,44): warning C4459: declaration of 'window' hides global declaration
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(11,13): message : see declaration of 'window'
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(142,44): warning C4100: 'window': unreferenced formal parameter
+C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\Chip-8\Main.cpp(153,39): warning C4100: 'render': unreferenced formal parameter
+  Chip-8.vcxproj -> C:\Users\hemt1\OneDrive - Hogeschool West-Vlaanderen\Second Year\Summer\Chip-8\x64\Debug\Chip-8.exe
