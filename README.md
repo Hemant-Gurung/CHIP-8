@@ -27,6 +27,10 @@ some reserved for 16 built-in characters (0-F);
 
 I have used SDL to display the graphics.
 
+
+![Chip-8](https://user-images.githubusercontent.com/84324141/199491734-b751de22-2a72-4bd1-8406-a5d0e168038a.gif)
+
+
 Resources:https://austinmorlan.com/posts/chip8_emulator/
 
 Resources:https://en.wikipedia.org/wiki/CHIP-8
